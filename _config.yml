@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianing Wang" # Your Sidebar Name
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "NLP & Knowledge Graph"
   location         : "Shanghai, China"
   employer         : "Alibaba Group & Ant Group"
