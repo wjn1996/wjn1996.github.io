@@ -11,8 +11,8 @@ redirect_from:
 - Hello! My name is **Jianing Wang**.
 - I'm a Ph.D student at East China Normal University (ECNU) (2019.9~2024.6) in Shanghai supervised by [Ming Gao](http://dase.ecnu.edu.cn/mgao/), majoring Computer Deep Learning and Natural Language Processing (NLP). My research points consists of Knowledge Graph (KG), Pre-trained Language Models (PLMs) and Few-shot Learning (FSL).
 - Now, I am doing research on Prompt-based Learning and Extractive Question Answering and focusing on low-resource scenarios, cooperating with [Alibaba Group PAI](https://www.aliyun.com/) and [Alibaba DAMO Academy for Discovery](https://damo.alibaba.com/) from 2021.3 to present. 
-- I have published 7 research papers at AAAI and EMNLP, including Knowledge-enhanced Pre-trained Language Models, Few-shot Question Answering, Low-resource Sequence Labeling and Prompt-based Learning. More details can be found in [Publications](https://wjn1996.github.io/publications/) and [Projects]https://wjn1996.github.io/projects/
-- I had internship experience in Ant Group (Digital Finance, 2021.6) and Alibaba Group (Plat of AI, AIR inter, 2022.9).
+- I have published 7 research papers at AAAI and EMNLP, including Knowledge-enhanced Pre-trained Language Models, Few-shot Question Answering, Low-resource Sequence Labeling and Prompt-based Learning. More details can be found in [Publications](https://wjn1996.github.io/publications/) and [Projects](https://wjn1996.github.io/projects/)
+- I had some internship experiences, including Ant Group (Digital Finance, 2021.6) and Alibaba Group (Plat of AI, AIR inter, 2022.9).
 - I like writing Chinese blogs at CSDN, sharing some papers and research knowledge of NLP, you can visit my Chinese in [here](https://wjn1996.blog.csdn.net/).
 
 News
