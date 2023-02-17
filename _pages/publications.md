@@ -15,22 +15,67 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-2023
-=====
+## 2023
 
-xxx
 
-2022
-=====
+- **Uncertainty-aware Self-training for Neural Sequence Labeling**
+<br>
+**Jianing Wang**, Chengyu Wang, Jun Huang, Ming Gao, Aoying Zhou.
+<br>
+The 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**, Full Paper)
 
-xxx
+## 2022
 
-2021
-=====
+- **Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding** [[pdf](https://aclanthology.org/2022.emnlp-main.207.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.207.bib)]
+<br>
+**Jianing Wang**, Wenkang Huang, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Xiang Li, Ming Gao
+<br>
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
 
-xxx
+<br>
 
-2020
-====
+- **KECP: Knowledge-Enhanced Contrastive Prompting for Few-shot Extractive Question Answering** [[pdf](https://aclanthology.org/2022.emnlp-main.206.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.206.bib)]
+<br>
+**Jianing Wang***, Chengyu Wang*, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Jun Huang, Ming Gao
+<br>
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
 
-xxx
+<br>
+
+- **SpanProto: A Two-stage Span-based Prototypical Network For Few-shot Named Entity Recognition** [[pdf](https://aclanthology.org/2022.emnlp-main.227.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.227.bib)]
+<br>
+**Jianing Wang**, Chengyu Wang, Chuanqi Tan, Minghui Qiu, Songfang Huang, Jun Huang, Ming Gao
+<br>
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
+
+<br>
+
+- **Towards Unified Prompt Tuning for Few-shot Text Classification** [[pdf](https://aclanthology.org/2022.findings-emnlp.37.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.37.bib)]
+<br>
+**Jianing Wang***, Chengyu Wang*, Fuli Luo, Chuanqi Tan, Minghui Qiu, Fei Yang, Qiuhui Shi, Songfang Huang, Ming Gao
+<br>
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
+
+<br>
+
+- **Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training** 
+<br>
+Taolin Zhang, Junwei Dong, **Jianing Wang**, Chengyu Wang, Ang Wang, Yinghui Liu, Jun Huang, Yong Li, Xiaofeng He
+<br>
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Industry Track Paper)
+
+<br>
+
+- **EasyNLP: A Comprehensive and Easy-to-use Toolkit for Natural Language Processing** 
+<br>
+Chengyu Wang, Minghui Qiu, Taolin Zhang, Tingting Liu, Lei Li, **Jianing Wang**, Ming Wang, Jun Huang, Wei Lin
+<br>
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Demo Paper)
+
+## 2021
+
+- **TransPrompt: Towards an Automatic Transferable Prompting Framework for Few-shot Text Classification** [[pdf](https://aclanthology.org/2021.emnlp-main.221.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.221.bib)]
+<br>
+Chengyu Wang*, **Jianing Wang***, Minghui Qiu, Jun Huang, Ming Gao
+<br>
+The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**, Full Paper)
