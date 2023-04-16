@@ -17,6 +17,11 @@ author_profile: true
 
 ## 2023
 
+- **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
+<br>
+**Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
+<br>
+(Submitted to **ACL 2023**, Demo Paper)
 
 - **Uncertainty-aware Self-training for Neural Sequence Labeling**
 <br>
