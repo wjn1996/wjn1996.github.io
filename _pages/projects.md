@@ -20,6 +20,7 @@ author_profile: true
 * Paper: [[HugNLP](https://arxiv.org/pdf/2302.14286)].
 * Project Link: [https://github.com/wjn1996/HugNLP](https://github.com/wjn1996/HugNLP).
 * Time: From 2023-01-01 to Now.
+
 > HugNLP is a novel development and application library based on Hugging Face for improving the convenience and effectiveness of NLP researchers.
 
 > HugNLP consists of a hierarchical structure including models, processors and applications that unifies the learning process of pre-trained language models (PLMs) on different NLP tasks.
@@ -30,6 +31,7 @@ Additionally, we present some featured NLP applications to show the effectivenes
 * Paper: [[pdf](https://aclanthology.org/2022.emnlp-demos.3.pdf)].
 * Project Link: [https://github.com/alibaba/EasyNLP](https://github.com/alibaba/EasyNLP).
 * Time: From 2022-04-10 to Now.
+
 > EasyNLP is an easy-to-use NLP development and application toolkit in PyTorch, first released inside Alibaba in 2021. It is built with scalable distributed training strategies and supports a comprehensive suite of NLP algorithms for various NLP applications. 
 
 > EasyNLP integrates knowledge distillation and few-shot learning for landing large pre-trained models, together with various popular multi-modality pre-trained models. It provides a unified framework of model training, inference, and deployment for real-world applications. 
