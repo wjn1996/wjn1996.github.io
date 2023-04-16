@@ -23,7 +23,7 @@ author_profile: true
 <br>
 (Submitted to **ACL 2023**, Demo Paper)
 
-- **Uncertainty-aware Self-training for Neural Sequence Labeling**
+- **Uncertainty-aware Self-training for Neural Sequence Labeling** [[pdf](https://arxiv.org/pdf/2302.08659)][[bib](https://dblp.org/rec/journals/corr/abs-2302-08659.html?view=bibtex)]
 <br>
 **Jianing Wang**, Chengyu Wang, Jun Huang, Ming Gao, Aoying Zhou.
 <br>
@@ -63,7 +63,7 @@ The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 
 <!-- <br> -->
 
-- **Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training** 
+- **Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training** [[pdf](https://aclanthology.org/2022.emnlp-industry.57.pdf)][[bib](https://dblp.org/rec/conf/emnlp/ZhangDWWWLHLH22.html?view=bibtex)]
 <br>
 Taolin Zhang, Junwei Dong, **Jianing Wang**, Chengyu Wang, Ang Wang, Yinghui Liu, Jun Huang, Yong Li, Xiaofeng He
 <br>
@@ -71,7 +71,7 @@ The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 
 <!-- <br> -->
 
-- **EasyNLP: A Comprehensive and Easy-to-use Toolkit for Natural Language Processing** 
+- **EasyNLP: A Comprehensive and Easy-to-use Toolkit for Natural Language Processing** [[pdf](https://aclanthology.org/2022.emnlp-demos.3.pdf)][[bib](https://dblp.org/rec/conf/emnlp/WangQZLLWWHL22.html?view=bibtex)] 
 <br>
 Chengyu Wang, Minghui Qiu, Taolin Zhang, Tingting Liu, Lei Li, **Jianing Wang**, Ming Wang, Jun Huang, Wei Lin
 <br>
