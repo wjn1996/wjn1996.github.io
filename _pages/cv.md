@@ -58,7 +58,7 @@ Skills
 
 Publications
 ======
-  Please refer to [Publication](./publications.md).
+  Please refer to [Publications](./publications.md).
 
 Awards
 ======
