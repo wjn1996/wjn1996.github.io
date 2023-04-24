@@ -88,4 +88,4 @@ Teaching or Teaching Assistant
 CV PDF
 ======
 * The Chinese CV PDF is [here](../files/%E7%8E%8B%E5%98%89%E5%AE%81%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%8823-03-06%EF%BC%89.pdf).
-* The English CV PDF is coming soon.
+* The English CV PDF is [here](../files/JianingWang_Academic_CV%20(23-04-19).pdf)
