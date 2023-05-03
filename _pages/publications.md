@@ -17,11 +17,23 @@ author_profile: true
 
 ## 2023
 
+- **XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding**
+<br>
+Moming Tang, Chengyu Wang, **Jianing Wang**, Chuanqi Tan, Songfang Huang, Cen CHEN and Weining Qian
+<br>
+The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)
+
+- **When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario**
+<br>
+Chengcheng Han, Liqing Cui, Renyu Zhu, **Jianing Wang**, Nuo Chen, Qiushi Sun, Xiang Li and Ming Gao
+<br>
+The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)
+
 - **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
 <br>
 **Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
 <br>
-(Submitted to **ACL 2023**, Demo Paper)
+(ArXiv 2023)
 
 - **Uncertainty-aware Self-training for Neural Sequence Labeling** [[pdf](https://arxiv.org/pdf/2302.08659)][[bib](https://dblp.org/rec/journals/corr/abs-2302-08659.html?view=bibtex)]
 <br>
