@@ -17,23 +17,38 @@ author_profile: true
 
 ## 2023
 
+- **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
+<br>
+**Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
+<br>
+32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**, Demo Paper)
+
+
+- **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization**
+<br>
+Moming Tang, Chengyu Wang, \textbf{Jianing Wang}, Cen Chen, Ming Gao and Weining Qian
+<br>
+The 16th International Conference on Knowledge Science, Engineering and Management (**KSEM 2023**, Full Paper)
+
+
+- **UKT: A Unified Knowledgeable Tuning Framework for Chinese Information Extraction**
+<br>
+Jiyong Zhou, Chengyu Wang, Junbing Yan, **Jianing Wang**, Yukang Xie, jun huang and Ying Gao
+<br>
+The 12th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC 2023**, Full Paper)
+
+
 - **XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding**
 <br>
 Moming Tang, Chengyu Wang, **Jianing Wang**, Chuanqi Tan, Songfang Huang, Cen CHEN and Weining Qian
 <br>
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)
+The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, Findings Paper)
 
 - **When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario**
 <br>
 Chengcheng Han, Liqing Cui, Renyu Zhu, **Jianing Wang**, Nuo Chen, Qiushi Sun, Xiang Li and Ming Gao
 <br>
-The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)
-
-- **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
-<br>
-**Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
-<br>
-(ArXiv 2023)
+The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, Findings Paper)
 
 - **Uncertainty-aware Self-training for Neural Sequence Labeling** [[pdf](https://arxiv.org/pdf/2302.08659)][[bib](https://dblp.org/rec/journals/corr/abs-2302-08659.html?view=bibtex)]
 <br>
@@ -71,7 +86,7 @@ The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 <br>
 **Jianing Wang***, Chengyu Wang*, Fuli Luo, Chuanqi Tan, Minghui Qiu, Fei Yang, Qiuhui Shi, Songfang Huang, Ming Gao
 <br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Findings Paper)
 
 <!-- <br> -->
 
