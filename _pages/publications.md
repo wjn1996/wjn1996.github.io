@@ -26,7 +26,7 @@ author_profile: true
 
 - **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization**
 <br>
-Moming Tang, Chengyu Wang, \textbf{Jianing Wang}, Cen Chen, Ming Gao and Weining Qian
+Moming Tang, Chengyu Wang, **Jianing Wang**, Cen Chen, Ming Gao and Weining Qian
 <br>
 The 16th International Conference on Knowledge Science, Engineering and Management (**KSEM 2023**, Full Paper)
 
