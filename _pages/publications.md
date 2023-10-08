@@ -17,6 +17,34 @@ author_profile: true
 
 ## 2023
 
+- **Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding**
+<br>
+**Jianing Wang**, Qiushi Sun, Nuo Chen, Chengyu Wang, Xiang Li, Ming Gao, Jun Huang
+<br>
+The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
+
+
+- **Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation**
+<br>
+Yuanyuan Liang, **Jianing Wang**, Hanlun Zhu, Lei Wang, Yunshi Lan, Weining Qian
+<br>
+The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Full Paper)
+
+
+- **Pass-Tuning: Towards Structure-Aware Parameter-Efficient Tuning for Code Representation Learning** 
+<br>
+Nuo Chen, Qiushi Sun, **Jianing Wang**, Xiang Li, Ming Gao
+<br>
+The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
+
+
+- **Evaluating and Enhancing the Robustness of Code Pre-trained Models through Structure-Aware Adversarial Samples Generation** 
+<br>
+Nuo Chen, Qiushi Sun, **Jianing Wang**, Xiaoli Li, Xiang Li, Ming Gao
+<br>
+The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
+
+
 - **HugNLP: A Unified and Comprehensive Library for Natural Language Processing** [[pdf](https://arxiv.org/pdf/2302.14286)][[bib](https://dblp.org/rec/journals/corr/abs-2302-14286.html?view=bibtex)]
 <br>
 **Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
@@ -24,7 +52,7 @@ author_profile: true
 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**, Demo Paper)
 
 
-- **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization**
+- **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization** [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_9)][[bib](https://dblp.org/rec/conf/ksem/TangWWCGQ23.html?view=bibtex)]
 <br>
 Moming Tang, Chengyu Wang, **Jianing Wang**, Cen Chen, Ming Gao and Weining Qian
 <br>
@@ -38,13 +66,13 @@ Jiyong Zhou, Chengyu Wang, Junbing Yan, **Jianing Wang**, Yukang Xie, jun huang 
 The 12th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC 2023**, Full Paper)
 
 
-- **XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding**
+- **XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding** [[pdf](https://aclanthology.org/2023.findings-acl.397.pdf)][[bib](https://dblp.org/rec/conf/acl/Tang0WTHCQ23.html?view=bibtex)]
 <br>
 Moming Tang, Chengyu Wang, **Jianing Wang**, Chuanqi Tan, Songfang Huang, Cen CHEN and Weining Qian
 <br>
 The 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, Findings Paper)
 
-- **When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario**
+- **When Gradient Descent Meets Derivative-Free Optimization: A Match Made in Black-Box Scenario** [[pdf](https://aclanthology.org/2023.findings-acl.55.pdf)][[bib](https://dblp.org/rec/conf/acl/0004CZWCSLG23.html?view=bibtex)]
 <br>
 Chengcheng Han, Liqing Cui, Renyu Zhu, **Jianing Wang**, Nuo Chen, Qiushi Sun, Xiang Li and Ming Gao
 <br>

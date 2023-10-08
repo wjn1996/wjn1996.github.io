@@ -19,17 +19,22 @@ Educations
 
 Work Experiences
 ======
+* Visiting Scholar
+  * University of California, San Diego (2023.10 - 2024.02)
+  * Duties included: Personalized Learning with Large Language Models.
+  * Supervisor: [Dr. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/).
+
 * Research Internship
   * Ant Group, Insurance Technology Department (2021.6 - 2022.8).
   * Duties included: Chinese Spelling Correction, Knowledge-enhanced Pre-trained Language Models.
-  * Supervisor: Hongbin Wang, Wenkang Huang.
-  * Achievements: 1 EMNLP paper.
+  * Supervisor: [Hongbin Wang](https://scholar.google.com/citations?user=eXCh5OEAAAAJ&hl=en).
+  * Achievements: 4 EMNLP paper.
 
 * Research Project Internship
   * Alibaba Group, Platform of AI (2021.3 - Now).
   * Duties included: Few-shot Learning, Large Language Models, Prompt-based Learning.
-  * Supervisor: Songfang Huang, Chengyu Wang.
-  * Achievements: 5 EMNLP papers, 1 AAAI paper, EasyNLP open-source framework.
+  * Supervisor: [Dr. Chengyu Wang](https://chywang.github.io/), [Dr. Minghui Qiu](https://scholar.google.com/citations?user=xcqJyMgAAAAJ&hl=en).
+  * Achievements: 1 ACL papers, 6 EMNLP papers, 1 AAAI paper, EasyNLP open-source framework.
   
 Skills
 ======
@@ -87,5 +92,5 @@ Teaching or Teaching Assistant
 
 CV PDF
 ======
-* The Chinese CV PDF is [here](../files/%E7%8E%8B%E5%98%89%E5%AE%81%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%8823-03-06%EF%BC%89.pdf).
-* The English CV PDF is [here](../files/JianingWang_Academic_CV%20(23-04-19).pdf)
+<!-- * The Chinese CV PDF is [here](../files/%E7%8E%8B%E5%98%89%E5%AE%81%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%8823-03-06%EF%BC%89.pdf). -->
+* The English CV PDF is [here](../files/Jianing_Wang_Academic_CV%20(23-10-08).pdf)

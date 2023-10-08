@@ -20,6 +20,7 @@ redirect_from:
 News
 ======
 
+* [2023-10-08] Our 4 papers have been accepted by EMNLP 2023.
 * [2023-08-06] The HugNLP has been accepted by CIKM 2023.
 * [2023-05-05] The HugNLP has been released in [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP).
 * [2023-04-13] Establish [HugAILab](https://github.com/HugAILab).
