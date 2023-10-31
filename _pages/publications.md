@@ -17,14 +17,14 @@ author_profile: true
 
 ## 2023
 
-- **Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding**
+- **Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding** [[pdf](https://arxiv.org/pdf/2310.13022.pdf)][[bib](https://dblp.org/rec/journals/corr/abs-2310-13022.html?view=bibtex)]
 <br>
 **Jianing Wang**, Qiushi Sun, Nuo Chen, Chengyu Wang, Xiang Li, Ming Gao, Jun Huang
 <br>
 The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Findings Paper)
 
 
-- **Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation**
+- **Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation** [[pdf](https://arxiv.org/pdf/2310.08395.pdf)][[bib](https://dblp.org/rec/journals/corr/abs-2310-08395.html?view=bibtex)]
 <br>
 Yuanyuan Liang, **Jianing Wang**, Hanlun Zhu, Lei Wang, Yunshi Lan, Weining Qian
 <br>
@@ -49,7 +49,7 @@ The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 <br>
 **Jianing Wang**, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao.
 <br>
-32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**, Demo Paper)
+32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**, Demo Paper, **Best Demo Paper Award**)
 
 
 - **ParaSum: Contrastive Paraphrasing for Low-resource Extractive Text Summarization** [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_9)][[bib](https://dblp.org/rec/conf/ksem/TangWWCGQ23.html?view=bibtex)]
