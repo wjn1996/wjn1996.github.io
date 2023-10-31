@@ -20,6 +20,7 @@ redirect_from:
 News
 ======
 
+* [2023-10-25] Our HugNLP has been awarded [CIKM 2023 Best Demo Paper Award](https://uobevents.eventsair.com/cikm2023/demos)!
 * [2023-10-08] Our 4 papers have been accepted by EMNLP 2023.
 * [2023-08-06] The HugNLP has been accepted by CIKM 2023.
 * [2023-05-05] The HugNLP has been released in [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP).
