@@ -15,6 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Click [here](./preprints.md) to see all preprints.
+
+## 2024
+
+- **Boosting In-Context Learning with Factual Knowledge** [[pdf](https://arxiv.org/pdf/2309.14771.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2309-14771.html?view=bibtex)]
+<br>
+**Jianing Wang**, Chengyu Wang, Chuanqi Tan, Jun Huang, Ming Gao
+<br> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**, Findings Paper)
+
+- **TransCoder: Towards unified transferable code representation learning inspired by human skills** [[pdf](https://arxiv.org/pdf/2306.07285.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2306-07285.html?view=bibtex)]
+<br>
+Qiushi Sun, Nuo Chen, **Jianing Wang**, Xiang Li, Ming Gao
+<br> The 2024 Joint International Conference On Computation Linguistics, Language
+Resources And Evaluation (**COLING 2024**, Full Paper)
+
 ## 2023
 
 - **Uncertainty-aware Parameter-Efficient Self-training for Semi-supervised Language Understanding** [[pdf](https://arxiv.org/pdf/2310.13022.pdf)][[bib](https://dblp.org/rec/journals/corr/abs-2310-13022.html?view=bibtex)]
