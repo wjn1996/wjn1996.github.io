@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Hello! My name is **Jianing Wang**.
-- I'm a Ph.D student at East China Normal University (ECNU) (from Sep. 2019 to Jun. 2024) in Shanghai supervised by [Prof. Ming Gao](http://dase.ecnu.edu.cn/mgao/), [Prof. Xiang Li](https://lixiang3776.github.io/), and [Prof. Yunshi Lan](https://scholar.google.com/citations?hl=en&user=Q0F92XIAAAAJ) majoring Deep Learning and Natural Language Processing (NLP). I also visited at UCSD and supervised by [Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/#) from Oct. 2023 to Feb. 2024.
+- I'm a Ph.D student at East China Normal University (ECNU) (from Sep. 2019 to Jun. 2024) in Shanghai supervised by [Prof. Ming Gao](http://dase.ecnu.edu.cn/mgao/), [Prof. Xiang Li](https://lixiang3776.github.io/), and [Prof. Yunshi Lan](https://scholar.google.com/citations?hl=en&user=Q0F92XIAAAAJ) majoring Deep Learning and Natural Language Processing (NLP). I also visited at UCSD and supervised by [Prof. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/#) from Oct. 2023 to Feb. 2024.
 <!-- - I'm the founder of [HugAILab](https://github.com/HugAILab), which is the open organization for AI researching and application. -->
 - My research points consist of Large Language Models (LLMs), Prompt Learning, and Knowledge Graph.
 <!-- - Now, I am now doing research on Prompt-based Learning and focusing on low-resource scenarios, cooperating with [Alibaba Group PAI](https://www.aliyun.com/) and [Alibaba DAMO Academy for Discovery](https://damo.alibaba.com/) from Mar. 2021 to Oct. 2022.  -->
