@@ -22,7 +22,7 @@ Work Experiences
 * Visiting Scholar
   * University of California, San Diego (2023.10 - 2024.02)
   * Duties included: Graph Learning with LLMs.
-  * Supervisor: [Dr. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/).
+  * Supervisor: [Prof. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/).
 
 * Research Internship
   * Ant Group, Insurance Technology Department (2023.6 - 2023.9).
