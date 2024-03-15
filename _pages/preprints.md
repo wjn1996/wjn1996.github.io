@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Click [here](./publications.md) to see all publications.
+This page shows all under-reviewing preprints. Click [here](./publications.md) to see all accepted papers.
 
 ## 2024 and Before
 
