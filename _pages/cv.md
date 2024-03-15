@@ -21,9 +21,14 @@ Work Experiences
 ======
 * Visiting Scholar
   * University of California, San Diego (2023.10 - 2024.02)
-  * Duties included: Personalized Learning with Large Language Models.
+  * Duties included: Graph Learning with LLMs.
   * Supervisor: [Dr. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/).
 
+* Research Internship
+  * Ant Group, Insurance Technology Department (2023.6 - 2023.9).
+  * Duties included: Medical LLM.
+  * Supervisor: [Hongbin Wang](https://scholar.google.com/citations?user=eXCh5OEAAAAJ&hl=en).
+  
 * Research Internship
   * Ant Group, Insurance Technology Department (2021.6 - 2022.8).
   * Duties included: Chinese Spelling Correction, Knowledge-enhanced Pre-trained Language Models.
@@ -73,6 +78,7 @@ Awards
   * [2022-07] [CLUE Benchmarks Version 1.1](https://www.cluebenchmarks.com/rank.html), The 15-th Place (2/109)
   * [2020-12] 'Huawei Cup' The 17th China Post-Graduate Mathematical Contest in Modeling, Second Prize.
 * Scholarship:
+  * [2023-12] National Scholarship.
   * [2022-12] HuaXin Scholarship.
   * [2021-12] HuaXin Scholarship.
 * Others:
@@ -93,4 +99,4 @@ Teaching or Teaching Assistant
 CV PDF
 ======
 <!-- * The Chinese CV PDF is [here](../files/%E7%8E%8B%E5%98%89%E5%AE%81%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%8823-03-06%EF%BC%89.pdf). -->
-* The English CV PDF is [here](../files/Jianing_Wang_Academic_CV%20(23-10-08).pdf)
+* The English CV PDF is [here](../files/Jianing_Wang_Academic_CV%20(24-03-15).pdf)
