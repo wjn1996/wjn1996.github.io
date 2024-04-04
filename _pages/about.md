@@ -16,6 +16,7 @@ redirect_from:
 - I have published some research papers at ACL, AAAI, EMNLP, CIKM, etc., including Knowledge-enhanced Pre-trained Language Models, Few-shot Question Answering, Low-resource Sequence Labeling and Prompt Learning. More details can be found in [Publications](https://wjn1996.github.io/publications/) and [Projects](https://wjn1996.github.io/projects/).
 - I had some internship experiences, including Ant Group (Digital Finance, Jun. 2021) and Alibaba Group (Platform of AI, AIR intern, Sep. 2022).
 - I like writing Chinese blogs at CSDN, sharing some papers and research knowledge of NLP, you can visit my Chinese blogs in [here](https://wjn1996.blog.csdn.net/).
+- If you have any comments, please click [here](https://github.com/wjn1996/wjn1996/issues) to let me know!
 
 News
 ======
