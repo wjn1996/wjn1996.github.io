@@ -19,7 +19,7 @@ This page shows all accepted papers. Click [here](./preprints.md) to see all und
 
 ## 2024
 
-- **Boosting In-Context Learning with Factual Knowledge** [[pdf](https://arxiv.org/pdf/2309.14771.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2309-14771.html?view=bibtex)]
+- **Knowledgeable In-Context Tuning: Exploring and Exploiting Factual Knowledge for In-Context Learning** [[pdf](https://arxiv.org/pdf/2309.14771.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2309-14771.html?view=bibtex)]
 <br>
 **Jianing Wang**, Chengyu Wang, Chuanqi Tan, Jun Huang, Ming Gao
 <br> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**, Findings Paper)
