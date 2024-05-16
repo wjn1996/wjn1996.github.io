@@ -27,13 +27,5 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, **Jia
 <br>
 Junda Wu, Cheng-Chun Chang, Tong Yu, Zhankui He, **Jianing Wang**, Yupeng Hou, Julian McAuley
 
-- **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment** [[pdf](https://arxiv.org/pdf/2402.08785)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2402-08785.html?view=bibtex)]
-<br>
-**Jianing Wang**, Junda Wu, Yupeng Hou, Yao Liu, Ming Gao, Julian J. McAuley
-
-- **Boosting language models reasoning with chain-of-knowledge prompting** [[pdf](https://arxiv.org/pdf/2306.06427)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2306-06427.html?view=bibtex)]
-<br>
-**Jianing Wang**, Qiushi Sun, Nuo Chen, Xiang Li, Ming Gao
-
 
 

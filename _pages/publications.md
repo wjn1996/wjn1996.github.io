@@ -15,9 +15,19 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page shows all accepted papers. Click [here](./preprints.md) to see all under-reviewing preprints.
+This page shows all accepted papers. Click [here](./preprints.md) to see all under-reviewing preprints. † means the same contribution.
 
 ## 2024
+
+- **Boosting language models reasoning with chain-of-knowledge prompting** [[pdf](https://arxiv.org/pdf/2306.06427)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2306-06427.html?view=bibtex)]
+<br>
+**Jianing Wang**†, Qiushi Sun†, Xiang Li, Ming Gao
+<br> The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, Main Paper)
+
+- **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment** [[pdf](https://arxiv.org/pdf/2402.08785)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2402-08785.html?view=bibtex)]
+<br>
+**Jianing Wang**, Junda Wu, Yupeng Hou, Yao Liu, Ming Gao, Julian J. McAuley
+<br> The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, Findings Paper)
 
 - **Knowledgeable In-Context Tuning: Exploring and Exploiting Factual Knowledge for In-Context Learning** [[pdf](https://arxiv.org/pdf/2309.14771.pdf)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2309-14771.html?view=bibtex)]
 <br>
@@ -28,7 +38,7 @@ This page shows all accepted papers. Click [here](./preprints.md) to see all und
 <br>
 Qiushi Sun, Nuo Chen, **Jianing Wang**, Xiang Li, Ming Gao
 <br> The 2024 Joint International Conference On Computation Linguistics, Language
-Resources And Evaluation (**COLING 2024**, Full Paper)
+Resources And Evaluation (**COLING 2024**, Main Paper)
 
 ## 2023
 
@@ -43,7 +53,7 @@ The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 <br>
 Yuanyuan Liang, **Jianing Wang**, Hanlun Zhu, Lei Wang, Yunshi Lan, Weining Qian
 <br>
-The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Full Paper)
+The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**, Main Paper)
 
 
 - **Pass-Tuning: Towards Structure-Aware Parameter-Efficient Tuning for Code Representation Learning** 
@@ -105,15 +115,15 @@ The 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**, Full Paper)
 <br>
 **Jianing Wang**, Wenkang Huang, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Xiang Li, Ming Gao
 <br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Main Paper)
 
 <!-- <br> -->
 
 - **KECP: Knowledge-Enhanced Contrastive Prompting for Few-shot Extractive Question Answering** [[pdf](https://aclanthology.org/2022.emnlp-main.206.pdf)][[bib](https://aclanthology.org/2022.emnlp-main.206.bib)]
 <br>
-**Jianing Wang***, Chengyu Wang*, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Jun Huang, Ming Gao
+**Jianing Wang**†, Chengyu Wang†, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Jun Huang, Ming Gao
 <br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Main Paper)
 
 <!-- <br> -->
 
@@ -121,7 +131,7 @@ The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 <br>
 **Jianing Wang**, Chengyu Wang, Chuanqi Tan, Minghui Qiu, Songfang Huang, Jun Huang, Ming Gao
 <br>
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Full Paper)
+The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**, Main Paper)
 
 <!-- <br> -->
 
@@ -151,6 +161,6 @@ The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP
 
 - **TransPrompt: Towards an Automatic Transferable Prompting Framework for Few-shot Text Classification** [[pdf](https://aclanthology.org/2021.emnlp-main.221.pdf)][[bib](https://aclanthology.org/2021.emnlp-main.221.bib)]
 <br>
-Chengyu Wang*, **Jianing Wang***, Minghui Qiu, Jun Huang, Ming Gao
+Chengyu Wang†, **Jianing Wang**†, Minghui Qiu, Jun Huang, Ming Gao
 <br>
-The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**, Full Paper)
+The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**, Main Paper)
