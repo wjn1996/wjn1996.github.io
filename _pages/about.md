@@ -21,13 +21,14 @@ redirect_from:
 News
 ======
 
+* [2024-05-19] Our two papers have been accepted to ACL 2024 (Main and Findings).
 * [2024-03-25] Our new survey on neural code intelligent (NCI) has been released in ArXiv: [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734). 🔥🔥🔥
-* [2024-03-14] Our one paper has been accepted in Findings of NAACL 2024.
+* [2024-03-14] Our one paper has been accepted to the Findings of NAACL 2024.
 * [2024-02-13] Our [InstructGraph](https://arxiv.org/pdf/2402.08785.pdf) (Graph + LLMs) has been released in [GitHub](https://github.com/wjn1996/InstructGraph). 🔥🔥🔥
 * [2023-10-25] Our HugNLP has been awarded [CIKM 2023 Best Demo Paper Award](https://uobevents.eventsair.com/cikm2023/demos)!
 * [2023-10-20] I will visit [Julian's team](https://cseweb.ucsd.edu//~jmcauley/#) at UCSD for about four months.
-* [2023-10-08] Our 4 papers have been accepted by EMNLP 2023.
-* [2023-08-06] The HugNLP has been accepted by CIKM 2023.
+* [2023-10-08] Our 4 papers have been accepted to EMNLP 2023.
+* [2023-08-06] The HugNLP has been accepted to CIKM 2023.
 * [2023-05-05] The HugNLP has been released in [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP). 🔥🔥🔥
 * [2023-04-13] Establish [HugAILab](https://github.com/HugAILab).
 * [2023-04-13] The homepage is opened!
