@@ -21,6 +21,7 @@ redirect_from:
 News
 ======
 
+* [2024-12-10] Our one paper has been accepted to AAAI 2025.
 * [2024-05-19] Our two papers have been accepted to ACL 2024 (Main and Findings).
 * [2024-03-25] Our new survey on neural code intelligent (NCI) has been released in ArXiv: [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734). 🔥🔥🔥
 * [2024-03-14] Our one paper has been accepted to the Findings of NAACL 2024.
