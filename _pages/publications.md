@@ -19,6 +19,17 @@ This page shows all accepted papers. Click [here](./preprints.md) to see all und
 
 ## 2024
 
+- **Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization** [[pdf](https://arxiv.org/pdf/2409.11212)][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2409-11212.html?view=bibtex)]
+<br>
+**Jianing Wang**, Yang Zhou, Xiaocheng Zhang, Mengjiao Bao, Peng Yan
+<br> Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25, Long Paper)
+
+
+- **CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation** [[pdf](https://arxiv.org/pdf/2403.06447)][[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:JjkzPhY1jVgJ:scholar.google.com/&output=citation&scisdr=ClGniFkJEIGLgKBag0U:AFWwaeYAAAAAZg5cm0WDBMEEehIXFAQU4BLPp8I&scisig=AFWwaeYAAAAAZg5cm21lncD1QJGR7L2dPgfDvmo&scisf=4&ct=citation&cd=-1&hl=en)]
+<br>
+Junda Wu, Cheng-Chun Chang, Tong Yu, Zhankui He, **Jianing Wang**, Yupeng Hou, Julian McAuley
+<br> The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024, Long Paper)
+
 - **Boosting language models reasoning with chain-of-knowledge prompting** [[pdf](https://arxiv.org/pdf/2306.06427)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2306-06427.html?view=bibtex)]
 <br>
 **Jianing Wang**†, Qiushi Sun†, Xiang Li, Ming Gao
