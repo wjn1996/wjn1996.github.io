@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 - Hello! My name is **Jianing Wang (王嘉宁)**.
-- I obtained Ph.D degree at East China Normal University (ECNU) (from Sep. 2019 to Jun. 2024) in Shanghai supervised by [Prof. Ming Gao](http://dase.ecnu.edu.cn/mgao/), [Prof. Xiang Li](https://lixiang3776.github.io/), and [Prof. Yunshi Lan](https://scholar.google.com/citations?hl=en&user=Q0F92XIAAAAJ) majoring Deep Learning and Natural Language Processing (NLP). I also visited at UCSD and supervised by [Prof. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/#) from Oct. 2023 to Feb. 2024. Now, I am a full-time staff engineering in Meituan
+- I obtained the Ph.D degree at East China Normal University (ECNU) (from Sep. 2019 to Jun. 2024) in Shanghai supervised by [Prof. Ming Gao](http://dase.ecnu.edu.cn/mgao/), [Prof. Xiang Li](https://lixiang3776.github.io/), and [Prof. Yunshi Lan](https://scholar.google.com/citations?hl=en&user=Q0F92XIAAAAJ) majoring Deep Learning and Natural Language Processing (NLP). I also visited at UCSD and supervised by [Prof. Julian McAuley](https://cseweb.ucsd.edu//~jmcauley/#) from Oct. 2023 to Feb. 2024. Now, I am a full-time staff engineering in Meituan
 <!-- - I'm the founder of [HugAILab](https://github.com/HugAILab), which is the open organization for AI researching and application. -->
-- My research points consist of Large Language Models (LLMs), Post-training for LLMs, Formal Reasoning, and Agentic. If you want to join us, please send email to me.
+- My research points consist of Large Language Models (LLMs), Post-training for LLMs, Formal Reasoning, and Agentic. If you want to join us, please send an email to me.
 <!-- - Now, I am now doing research on Prompt-based Learning and focusing on low-resource scenarios, cooperating with [Alibaba Group PAI](https://www.aliyun.com/) and [Alibaba DAMO Academy for Discovery](https://damo.alibaba.com/) from Mar. 2021 to Oct. 2022.  -->
 - I have published some research papers at ICLR, ACL, AAAI, EMNLP, CIKM, etc., including Thinking Pattern Research for LLMs, Formal Language and Proving, Knowledge-enhanced Pre-trained Language Models, Few-shot Question Answering, Low-resource Sequence Labeling and Prompt Learning. More details can be found in [Publications](https://wjn1996.github.io/publications/) and [Projects](https://wjn1996.github.io/projects/).
 - I had some internship experiences, including Ant Group (Digital Finance, Jun. 2021) and Alibaba Group (Platform of AI, AIR intern, Sep. 2022).
@@ -21,10 +21,10 @@ redirect_from:
 News
 ======
 
-* [2025-10-11] We release [R-Horizon](https://reasoning-horizon.github.io), which is a novel benchmark and traing recipe for RLVR on long-horizon reasoning.
-* [2025-09-22] We release [LongCat-Flash-Thinking](https://github.com/meituan-longcat/LongCat-Flash-Thinking), which is an efficient and powerful large reasoning model on solving general reasoning, formal proving, and agentic tasks.
-* [2025-08-21] Our two paper has been accepted to EMNLP 2025: [Prejudge-Before-Think: A new Thinking Pattern for LLM](https://arxiv.org/pdf/2504.13500), [Analysis of Formal Language in LLM](https://arxiv.org/pdf/2505.16998)
-* [2025-05-16] Our two paper has been accepted to ACL 2025: [Visual Modality Analysis](https://arxiv.org/pdf/2503.04167), [LogicPro](https://arxiv.org/pdf/2409.12929)
+* [2025-10-11] We release [R-Horizon](https://reasoning-horizon.github.io), which is a novel benchmark and traing recipe for RLVR on long-horizon reasoning. 🔥🔥🔥
+* [2025-09-22] We release [LongCat-Flash-Thinking](https://github.com/meituan-longcat/LongCat-Flash-Thinking), which is an efficient and powerful large reasoning model on solving general reasoning, formal proving, and agentic tasks. 🔥🔥🔥
+* [2025-08-21] Our two papers have been accepted to EMNLP 2025 (Findings and Main): [Prejudge-Before-Think: A new Thinking Pattern for LLM](https://arxiv.org/pdf/2504.13500), [Analysis of Formal Language in LLM](https://arxiv.org/pdf/2505.16998)
+* [2025-05-16] Our two papers have been accepted to ACL 2025 (Both are Main): [Visual Modality Analysis](https://arxiv.org/pdf/2503.04167), [LogicPro](https://arxiv.org/pdf/2409.12929)
 * [2025-01-23] Our one paper has been accepted to ICLR 2025: [OCEAN: Offline CoT for RLVR](https://arxiv.org/pdf/2410.23703)
 * [2024-12-10] Our one paper has been accepted to AAAI 2025: [Uncertainty-Preference-Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/34724)
 * [2024-05-19] Our two papers have been accepted to ACL 2024 (Main and Findings): [Chain-of-Knowledge](https://arxiv.org/pdf/2306.06427), [InstructGraph](https://arxiv.org/pdf/2402.08785)
