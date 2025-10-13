@@ -34,10 +34,6 @@ Meituan LongCat Team, Anchun Gui, Bei Li, Bingyang Tao, Bole Zhou, Borun Chen, C
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, **Jianing Wang**, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
 
 
-- **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** [[pdf](https://arxiv.org/pdf/2410.23703)][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2410-23703.html?view=bibtex)]
-<br>
-Junda Wu, Xintong Li, Ruoyu Wang, Yu Xia, Yuxin Xiong, **Jianing Wang**, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian J. McAuley
-
 - **Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs** [[pdf](https://arxiv.org/pdf/2410.15135)][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2410-15135.html?view=bibtex)]
 <br>
 Xiaocheng Zhang, Xi Wang, Yifei Lu, Zhuangzhuang Ye, **Jianing Wang**, Mengjiao Bao, Peng Yan, Xiaohong Su

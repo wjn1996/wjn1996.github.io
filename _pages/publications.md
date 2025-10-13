@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page shows all accepted papers. Click [here](./preprints.md) to see all under-reviewing preprints. † means the same contribution.
+This page shows all accepted papers. Click [here](./preprints.md) to see all (under-reviewing) preprints. † means the same contribution.
 
 
 ## 2025
