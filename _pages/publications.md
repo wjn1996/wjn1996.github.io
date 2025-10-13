@@ -17,6 +17,44 @@ author_profile: true
 
 This page shows all accepted papers. Click [here](./preprints.md) to see all under-reviewing preprints. † means the same contribution.
 
+
+## 2025
+
+- **Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning** [[pdf](https://arxiv.org/pdf/2504.13500)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2504-13500.html?view=bibtex)]
+<br>
+**Jianing Wang**, Jin Jiang, Yang Liu, Mengdi Zhang, Xunliang Cai
+<br> The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Findings Paper)
+
+
+
+- **Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?** [[pdf](https://arxiv.org/pdf/2505.16998)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2505-16998.html?view=bibtex)]
+<br>
+Jin Jiang, **Jianing Wang**, Yuchen Yan, Yang Liu, Jianhua Zhu, Mengdi Zhang, Xunliang Cai, Liangcai Gao:
+<br> The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**, Main Paper)
+
+
+
+- **Logicpro: Improving complex logical reasoning via program-guided learning** [[pdf](https://aclanthology.org/2025.acl-long.1270.pdf)][[bib](https://dblp.dagstuhl.de/rec/conf/acl/JiangYLWPCCZG25.html?view=bibtex)]
+<br>
+Jin Jiang, Yuchen Yan, Yang Liu, **Jianing Wang**, Shuai Peng, Xunliang Cai, Yixin Cao, Mengdi Zhang, Liangcai Gao
+<br> The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**, Main Paper)
+
+
+
+- **The Role of Visual Modality in Multimodal Mathematical Reasoning: Challenges and Insights** [[pdf](https://arxiv.org/pdf/2503.04167)][[bib](https://dblp.dagstuhl.de/rec/conf/acl/LiuDJWLWZZC25.html?view=bibtex)]
+<br>
+Yufang Liu, Yao Du, Tao Ji, **Jianing Wang**, Yang Liu, Yuanbin Wu, Aimin Zhou, Mengdi Zhang, Xunliang Cai
+<br> The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**, Main Paper)
+
+
+
+- **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** [[pdf](https://arxiv.org/pdf/2410.23703)][[bib](https://dblp.dagstuhl.de/rec/conf/iclr/WuLW0XWYCK0SM25.html?view=bibtex)]
+<br>
+Junda Wu, Xintong Li, Ruoyu Wang, Yu Xia, Yuxin Xiong, **Jianing Wang**, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian J. McAuley
+<br> The Thirteenth International Conference on Learning Representations (**ICLR 2025**)
+
+
+
 ## 2024
 
 - **Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization** [[pdf](https://arxiv.org/pdf/2409.11212)][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2409-11212.html?view=bibtex)]
