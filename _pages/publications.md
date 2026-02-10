@@ -15,8 +15,36 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-This page shows all accepted papers. Click [here](./preprints.md) to see all (under-reviewing) preprints. † means the same contribution.
+This page shows all accepted papers and selected technique report or surveys. Click [here](./preprints.md) to see all (under-reviewing) preprints. † means the same contribution.
 
+
+## Selected Technique Reports
+
+- [2026] **LongCat-Flash-Thinking-2601 Technical Report** [[pdf](https://arxiv.org/pdf/2601.16725)][[bib](https://arxiv.org/abs/2601.16725)]
+<br>
+The listing of authors is in alphabetical order
+<br>
+Meituan LongCat Team, Anchun Gui, Bei Li, Bingyang Tao, Bole Zhou, Borun Chen, Chao Zhang, Chen Gao, Chen Zhang, Chengcheng Han, Chenhui Yang, Chuyu Zhang, Cong Chen, Cunguang Wang, Daoru Pan, Defei Bu, Dengchang Zhao, Di Xiu, Dishan Liu, Dongyu Ru, Dunwei Tu, Fan Wu, Fengcheng Yuan, Fengcun Li, Gang Xu, Guanyu Wu, Guoyuan Lin, Haibin Wang, Hansi Yang, Hao Yang, Haonan Yan, Haoxiang Ma, Haoxing Wen, Hongyan Hao, Hongyin Tang, Hongyu Zang, Hongzhi Ni, Hui Su, Jiacheng Zhang, Jiahong Zhou, Jiahuan Li, Jiaming Wang, Jian Yang, Jianfei Zhang, Jianhao Xu, **Jianing Wang**, Jiapeng Zhu, Jiaqi Sun, Jiarong Shi, Jiarui Zhao, Jingang Wang ...... 
+
+- [2025] **LongCat-Flash-Thinking Technical Report** [[pdf](https://arxiv.org/pdf/2509.18883)][[bib](https://arxiv.org/abs/2509.18883)]
+<br>
+The listing of authors is in alphabetical order
+<br>
+Meituan LongCat Team, Anchun Gui, Bei Li, Bingyang Tao, Bole Zhou, Borun Chen, Chao Zhang, Chengcheng Han, Chenhui Yang, Chi Zhang, Chong Peng, Chuyu Zhang, Cong Chen, Fengcun Li, Gang Xu, Guoyuan Lin, Hao Jiang, Hao Liang, Haomin Fu, Haoxiang Ma, Hong Liu, Hongyan Hao, Hongyin Tang, Hongyu Zang, Hongzhi Ni, Hui Su, Jiahao Liu, Jiahuan Li, Jialin Liu, Jianfei Zhang, Jianhao Xu, **Jianing Wang**, Jiaqi Sun, Jiaqi Zhang, Jiarong Shi, Jiawei Yang, Jingang Wang, Jinrui Ding, Jun Kuang, Jun Xu, Ke He, Kefeng Zhang, Keheng Wang, Keqing He ......
+
+
+
+## 2026
+
+- **R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth and Depth?** [[pdf](https://arxiv.org/pdf/2510.08189)][[bib](https://arxiv.org/abs/2510.08189)]
+<br>
+Yi Lu, **Jianing Wang**, Linsen Guo, Wei He, Hongyin Tang, Tao Gui, Xuanjing Huang, Xuezhi Cao, Wei Wang, Xunliang Cai
+<br> The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
+
+- **Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows** [[pdf](https://arxiv.org/pdf/2505.19897)][[bib](https://dblp.dagstuhl.de/rec/journals/corr/abs-2505-19897.html?view=bibtex)]
+<br>
+Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, **Jianing Wang**, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
+<br> The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
 
 ## 2025
 
@@ -56,6 +84,10 @@ Junda Wu, Xintong Li, Ruoyu Wang, Yu Xia, Yuxin Xiong, **Jianing Wang**, Tong Yu
 
 
 ## 2024
+
+- **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond** [[pdf](https://arxiv.org/pdf/2403.14734)][[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:yHGO8zIIUrwJ:scholar.google.com/&output=citation&scisdr=ClGniFkJEIGLgKBami8:AFWwaeYAAAAAZg5cgi-UmrSyhVu-DtimdytURVs&scisig=AFWwaeYAAAAAZg5cgn2cibL8_wOpPNdv3bjPWpw&scisf=4&ct=citation&cd=-1&hl=en)]
+<br>
+Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, **Jianing Wang**, Chengcheng Han, Renyu Zhu, Shuai Yuan, Qipeng Guo, Xipeng Qiu, Pengcheng Yin, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 
 - **Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization** [[pdf](https://arxiv.org/pdf/2409.11212)][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2409-11212.html?view=bibtex)]
 <br>
