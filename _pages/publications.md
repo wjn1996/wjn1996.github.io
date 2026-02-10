@@ -24,7 +24,11 @@ This page shows all accepted papers and selected technique report or surveys. Cl
 <br>
 Meituan LongCat Team
 
-- [2025] **LongCat-Flash-Thinking Technical Report** [[pdf](https://arxiv.org/pdf/2509.18883)][[bib](https://arxiv.org/abs/2509.18883)]
+- [2025] **Introducing LongCat-Flash-Thinking: A Technical Report** [[pdf](https://arxiv.org/pdf/2509.18883)][[bib](https://arxiv.org/abs/2509.18883)]
+<br>
+Meituan LongCat Team
+
+- [2025] **LongCat-Flash Technical Report** [[pdf](https://arxiv.org/pdf/2509.01322)][[bib](https://arxiv.org/abs/2509.01322)]
 <br>
 Meituan LongCat Team
 
